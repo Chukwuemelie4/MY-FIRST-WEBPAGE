@@ -1,0 +1,17 @@
+body{background-color: aliceblue;}
+#header{ background-image: url(../../image/background1.PNG); ; background-size: 20% ;font-family: sans-serif, cursive; font-size: 120%; color:white; text-transform: capitalize; }
+h2{text-transform: uppercase; font-family:algerian;}
+h2 img{ height:3%; width: 3% }
+nav{ display:inline; flex-direction: row; border-bottom: thick dotted purple;    }
+nav a{padding:0% 0% 0% 4%; text-decoration: none; background-color: aqua; border: thick double bisque; border-color: dodgerblue}
+.introduction a{color: lawngreen; font-weight:bold;}
+#content{ display: inline-flex;text-align:left;}
+#happybirthday{width:100%; height:25.6em;clear:both;overflow: scroll;font-family: monospace; font-weight: bold; font-size:120%}
+.friendquotes{ text-align: right;width:100%; height:25em;clear:both; overflow: scroll}
+blockquote {font-family: fantasy}
+.friendzone {width:100%; height:25em;overflow: scroll;clear: both;}
+.friendzone img{width:100%; height:100%;overflow: scroll;clear:both}
+h3 {padding-left: 8%; text-align: left;font-size: 190%}
+footer {background-color: pink; font-family: serif;font-weight: bold;width:100% ;position: fixed;bottom:0%; left:0%; text-align: center}
+footer img{width:1em; height:1em}
+
